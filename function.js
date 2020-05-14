@@ -4,3 +4,11 @@ function sayHi(){
 }
 
 sayHi();
+
+//function expression, it annonymous function
+
+var sayBye = function(){
+    console.log('Bye!');
+};
+
+sayBye();

@@ -12,3 +12,11 @@ var sayBye = function(){
 };
 
 sayBye();
+
+//calling a function through another function
+function callFunction(fun){
+    fun();
+}
+
+callFunction(sayHi);
+callFunction(sayBye);

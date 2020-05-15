@@ -21,5 +21,4 @@ module.exports = {
     deduction: deduction,
     pi: pi,
     counter: counter,
-
 };

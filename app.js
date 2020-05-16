@@ -18,3 +18,5 @@ var timer=setInterval(function(){
         clearInterval(timer);
 },2000);
 
+console.log(__dirname); //give the directory name
+console.log(__filename); //give the file name

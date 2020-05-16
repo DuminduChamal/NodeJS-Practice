@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/dumindu96/NodeJS-Practice#readme",
   "dependencies": {
+    "ejs": "^3.1.2",
     "express": "^4.17.1"
   }
 }

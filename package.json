@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "a little test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumindu96/NodeJS-Practice.git"
+  },
+  "author": "Dumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumindu96/NodeJS-Practice/issues"
+  },
+  "homepage": "https://github.com/dumindu96/NodeJS-Practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
